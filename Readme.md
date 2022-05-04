@@ -1,4 +1,4 @@
-Olá meu caro(a) 😄
+Olá 😄
 
 Desenvolvido com base no projeto "Recriando a Interface da Netflix" da DIO - Digital Innovation One, Bootcamp - Take Blip Web Developer.
 
